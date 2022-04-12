@@ -1,0 +1,22 @@
+h1{
+    color: rgb(231, 175, 184);
+}
+
+h2{
+    color:rgb(231, 175, 184);
+    text-decoration: underline;
+}
+
+p{
+    text-align: left;
+    color:rgb(186, 108, 206);
+}
+
+a{
+    color:rgb(231, 175, 184); 
+    font-weight: bold;
+}
+
+.underline {text-decoration: underline;}
+.bold {font-weight: bold;}
+.italic {font-style: italic;}

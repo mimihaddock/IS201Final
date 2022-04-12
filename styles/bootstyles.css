@@ -1,0 +1,80 @@
+body {
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+}
+
+.common{
+    position: absolute; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header {
+    top: 5px; 
+    left: 114px;
+    right: 5px; 
+    height: 100px; 
+    z-index: 2; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    position: absolute;
+}
+
+.mainbody {
+    top: 100px; 
+    bottom: 64px; 
+    left: 114px; 
+    right: 114px; 
+    border-top: solid 1px black; 
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 200px;
+}
+
+ footer {
+    font-size: 10px;
+    color: black;
+    text-align: center;
+    border-top: solid 1px black; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+
+
+.subheader {
+    float: right; 
+}
+
+a {
+    color:black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+a:visited {
+    color: black; 
+}
+
+.underline {text-decoration: underline;}
+
+.captions {
+    text-align: center;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tableauPlaceholder {
+    top: 10px; 
+    bottom: 10px; 
+    left: 10px; 
+    right: 10px; 
+    height: 150;
+    width: 50;
+}
+
+.div {
+    display: block;
+}
